@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android. Урок 1. Домашнее задание</string>
+    <string name="on_off">Выкл/Вкл</string>
+    <string name="hello_world">Привет, Мир!</string>
+    <string name="variant_1">Вариант 1</string>
+    <string name="variant_2">Вариант 2</string>
+    <string name="variant_3">Вариант 3</string>
+</resources>

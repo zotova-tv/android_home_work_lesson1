@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AndroidHomeWorkLesson1</string>
+    <string name="on_off">Off/On</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="variant_1">Variant 1</string>
+    <string name="variant_2">Variant 2</string>
+    <string name="variant_3">Variant 3</string>
 </resources>
